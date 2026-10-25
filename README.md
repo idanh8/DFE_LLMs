@@ -2,6 +2,12 @@
 
 This repository contains the code associated with the research project **Decisions-From-Experience Trials in LLM Agents**. The project led to the paper [LLM Agents Display Human Biases but Exhibit Distinct Learning Patterns](https://arxiv.org/abs/2503.10248).
 
+## Research question
+
+Do LLM agents learn from repeated decisions and feedback in the same way as humans?
+
+We compared model behaviour with data from 110 human participants. Although the tested models displayed some human-like aggregate choice patterns, sequential analysis revealed different learning behaviour and stronger immediate recency effects.
+
 ## Repository Structure
 
 - **Code**: Contains all relevant Python files for running the experiments.
